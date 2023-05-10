@@ -1,4 +1,4 @@
-Python : 
+### Python : 
 ```python
 if(1 + 1 == 2):
     pass #do something
@@ -7,7 +7,7 @@ else:
 elif:
     pass #do something
 ```
-FeurScript
+### FeurScript
 ```feurscript
 ?(1 + 1 == 2){
     #do something
