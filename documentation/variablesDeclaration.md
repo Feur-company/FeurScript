@@ -7,4 +7,4 @@ integer | `$` |  `int` | `$age = 42` | `int age = 42;`
 string | `*` | `string` | `*hello = "Hello World!"` | `string hello = "Hello World!";`
 float | `^` | `double` | `^price = 20.15` | `double price = 20.15;`
 boolean | `%` | `bool` | `%isGenius = true` | `bool isGenius = true;`
-
+lists | < | - | `<peoples = [*"Joe", *"Donald", *"Barack", ^false, $42]` | -
