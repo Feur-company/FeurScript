@@ -1,4 +1,3 @@
-## Print string:
 ### Python:
 ```python
 print("Hello, world!")
