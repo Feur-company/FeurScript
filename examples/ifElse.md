@@ -4,7 +4,7 @@ if(1 + 1 == 2):
     pass #do something
 else:
     pass #do other things
-elif:
+elif(1 + 1 == 3):
     pass #do something
 ```
 ### FeurScript
