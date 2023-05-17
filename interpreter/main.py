@@ -9,6 +9,7 @@ def main():
     code = file.read()
     code = code.replace(" ", "")
     code = code.splitlines()
+    variables = {}
     for line in code:
         print(line)
 
