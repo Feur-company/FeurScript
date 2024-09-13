@@ -5,7 +5,7 @@ for (let VARIABLE_NAME = START; VARIABLE < END; INCREMENT) {
     // do something
 }
 ```
-@@@ FeurScript:
+### FeurScript:
 ```feurscript
 &(VARIABLE_NAME, START, END, INCREMENT){
     @ do something
