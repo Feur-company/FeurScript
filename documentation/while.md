@@ -8,6 +8,6 @@ while(CONDITION){
 ### FeurScript:
 ```feurscript
 !(CONDITION){
-    @ do something
+    ;do something
 }
 ```
