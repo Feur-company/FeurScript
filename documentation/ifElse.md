@@ -10,10 +10,10 @@ elif(1 + 1 == 3):
 ### FeurScript
 ```feurscript
 ?(1 + 1 == 2){
-    #do something
+    ;do something
 }@{
-    #do other things
+    ;do other things
 }@?(1 + 1 == 3){
-    #do something
+    ;do something
 }
 ```
