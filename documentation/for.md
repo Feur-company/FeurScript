@@ -5,10 +5,10 @@ for (let VARIABLE_NAME = START; VARIABLE < END; INCREMENT) {
     // do something
 }
 ```
-### FeurScript:
+@@@ FeurScript:
 ```feurscript
 &(VARIABLE_NAME, START, END, INCREMENT){
-    # do something
+    @ do something
 }
 ```
 > VARIABLE_NAME don't have to be defined
